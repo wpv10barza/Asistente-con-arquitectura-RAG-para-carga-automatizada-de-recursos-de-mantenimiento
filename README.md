@@ -128,19 +128,19 @@ sequenceDiagram
 
 ### Panel ESP32-S3-4848S040
 
-![Mapa técnico del panel ESP32-S3-4848S040](docs/images/01_panel_esp32.png)
+![Mapa técnico del panel ESP32-S3-4848S040](https://raw.githubusercontent.com/wpv10barza/erp-mantto-esp32/main/docs/images/esp32-s3-4848s040/fig13_panel_base.png)
 
 El panel documentado utiliza resolución **480 × 480**, controlador de pantalla **ST7701S**, táctil **GT911**, ESP32-S3, Flash de 16 MB y PSRAM OPI. La imagen describe la configuración; por sí sola no demuestra validación física.
 
 ### Subsistemas
 
-![Mapa lógico de subsistemas y periféricos](docs/images/02_subsistemas_esp32.png)
+![Mapa lógico de subsistemas y periféricos](https://raw.githubusercontent.com/wpv10barza/erp-mantto-esp32/main/docs/images/esp32-s3-4848s040/fig14_subsystems.png)
 
 La separación por subsistemas permite distinguir pantalla, táctil, memoria, retroiluminación, comunicación y elementos opcionales durante la validación.
 
 ## 9. Validación: software ≠ hardware físico
 
-![Mapa de compilación, carga y validación](docs/images/03_validacion.png)
+![Mapa de compilación, carga y validación](https://raw.githubusercontent.com/wpv10barza/erp-mantto-esp32/main/docs/images/esp32-s3-4848s040/fig16_validation_flow.png)
 
 La documentación mantiene niveles de evidencia separados:
 
