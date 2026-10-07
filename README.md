@@ -195,6 +195,7 @@ Para entender el sistema sin recorrer todo el código:
 3. **Reunión de 15 minutos:** [docs/GUIA_REUNION_15_MIN.md](docs/GUIA_REUNION_15_MIN.md).
 4. **Metodología y validación:** [docs/METODOLOGIA_VALIDACION.md](docs/METODOLOGIA_VALIDACION.md).
 5. **Estado y preguntas al asesor:** [docs/ESTADO_Y_PREGUNTAS.md](docs/ESTADO_Y_PREGUNTAS.md).
+6. **Fuentes, commits e imágenes:** [docs/FUENTES_Y_TRAZABILIDAD.md](docs/FUENTES_Y_TRAZABILIDAD.md).
 
 ## 13. Repositorios técnicos relacionados
 
